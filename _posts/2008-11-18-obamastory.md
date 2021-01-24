@@ -1,3 +1,7 @@
+---
+layout: post
+title: "An Obama Story"
+---
 An Obama Story
 ==============
 

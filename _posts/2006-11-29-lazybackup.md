@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Lazy Backup"
+---
 Lazy Backup
 ===========
 

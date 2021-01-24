@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Money and Worth"
+---
 Money and Worth
 ===============
 

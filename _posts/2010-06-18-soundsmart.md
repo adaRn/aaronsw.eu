@@ -1,3 +1,7 @@
+---
+layout: post
+title: "That Sounds Smart"
+---
 That Sounds Smart
 =================
 

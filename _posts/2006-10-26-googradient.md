@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Google and the Gradient"
+---
 Google and the Gradient
 =======================
 

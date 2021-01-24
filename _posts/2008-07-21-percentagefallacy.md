@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Percentage Fallacy"
+---
 The Percentage Fallacy
 ======================
 

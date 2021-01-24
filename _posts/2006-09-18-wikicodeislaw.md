@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Code, and Other Laws of Wikipedia"
+---
 Code, and Other Laws of Wikipedia
 =================================
 

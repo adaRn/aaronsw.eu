@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Neurosis \\#9"
+---
 Neurosis \#9
 ============
 

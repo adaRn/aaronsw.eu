@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Disciplinary Bubbles"
+---
 Disciplinary Bubbles
 ====================
 

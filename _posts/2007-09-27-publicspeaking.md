@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Joy of Public Speaking"
+---
 The Joy of Public Speaking
 ==========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Brief History of Ajax"
+---
 A Brief History of Ajax
 =======================
 

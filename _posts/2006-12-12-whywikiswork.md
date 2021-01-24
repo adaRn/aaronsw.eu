@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Eight Reasons (Some) Wikis Work"
+---
 Eight Reasons (Some) Wikis Work
 ===============================
 

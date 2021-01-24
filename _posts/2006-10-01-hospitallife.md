@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Life in the Hospital"
+---
 Life in the Hospital
 ====================
 

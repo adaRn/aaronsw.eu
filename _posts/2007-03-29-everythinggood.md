@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Everything Good is Bad For You"
+---
 Everything Good is Bad For You
 ==============================
 

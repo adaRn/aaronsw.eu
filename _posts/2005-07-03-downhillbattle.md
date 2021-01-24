@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Of Washington And Worcester"
+---
 Of Washington And Worcester
 ===========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Disinfecting the Sunlight Foundation"
+---
 Disinfecting the Sunlight Foundation
 ====================================
 

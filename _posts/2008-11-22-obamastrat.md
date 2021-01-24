@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Obama’s Strategy: A Debate"
+---
 Obama’s Strategy: A Debate
 ==========================
 

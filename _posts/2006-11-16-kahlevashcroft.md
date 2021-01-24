@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Kahle v. Ashcroft write-up"
+---
 Kahle v. Ashcroft write-up
 ==========================
 

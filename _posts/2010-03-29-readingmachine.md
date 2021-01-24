@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Reading Machine"
+---
 A Reading Machine
 =================
 

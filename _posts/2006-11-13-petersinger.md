@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Meeting Peter Singer"
+---
 Meeting Peter Singer
 ====================
 

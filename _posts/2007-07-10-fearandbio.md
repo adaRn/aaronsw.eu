@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Fear and Loathing in Biotechnology Firms"
+---
 Fear and Loathing in Biotechnology Firms
 ========================================
 

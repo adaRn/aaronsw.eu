@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Who Writes Wikipedia?"
+---
 Who Writes Wikipedia?
 =====================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Reflections on Cultural Fragments"
+---
 Reflections on Cultural Fragments
 =================================
 

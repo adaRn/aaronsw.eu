@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Cooling the Mark Out"
+---
 Cooling the Mark Out
 ====================
 

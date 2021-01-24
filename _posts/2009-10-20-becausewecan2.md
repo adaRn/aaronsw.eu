@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Because We Can"
+---
 Because We Can
 ==============
 

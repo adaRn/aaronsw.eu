@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Our Next Superjumbo"
+---
 Our Next Superjumbo
 ===================
 

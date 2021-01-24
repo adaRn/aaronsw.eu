@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Starting Out in the Morning"
+---
 Starting Out in the Morning
 ===========================
 

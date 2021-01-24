@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Revolutions on the Internet"
+---
 Revolutions on the Internet
 ===========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Why I Won’t Use Rimuhosting"
+---
 Why I Won’t Use Rimuhosting
 ===========================
 

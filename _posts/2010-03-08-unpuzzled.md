@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Philosophical Puzzles Resolved"
+---
 Philosophical Puzzles Resolved
 ==============================
 

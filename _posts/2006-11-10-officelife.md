@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Life at the Office"
+---
 Life at the Office
 ==================
 

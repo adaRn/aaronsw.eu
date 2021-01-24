@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Looper Works"
+---
 How Looper Works
 ================
 

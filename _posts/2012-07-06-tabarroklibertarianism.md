@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Libertarianism and the State"
+---
 Libertarianism and the State
 ============================
 

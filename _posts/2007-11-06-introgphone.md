@@ -1,3 +1,7 @@
+---
+layout: post
+title: "GPhone Announced, Morons"
+---
 GPhone Announced, Morons
 ========================
 

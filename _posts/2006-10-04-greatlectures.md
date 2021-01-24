@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Greatness of College Lectures"
+---
 The Greatness of College Lectures
 =================================
 

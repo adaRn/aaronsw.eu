@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Economic BS Detector"
+---
 Economic BS Detector
 ====================
 

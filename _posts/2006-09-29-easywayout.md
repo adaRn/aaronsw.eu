@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Take the Easy Way Out"
+---
 Take the Easy Way Out
 =====================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Quantum Mechanics is Compatible with Free Will"
+---
 How Quantum Mechanics is Compatible with Free Will
 ==================================================
 

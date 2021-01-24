@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Real Good Books"
+---
 Real Good Books
 ===============
 

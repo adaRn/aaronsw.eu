@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Alone in the Hospital"
+---
 Alone in the Hospital
 =====================
 

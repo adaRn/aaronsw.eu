@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Hot Girl Syndrome"
+---
 Hot Girl Syndrome
 =================
 

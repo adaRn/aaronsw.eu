@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Some Announcements"
+---
 Some Announcements
 ==================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How to Save A Life"
+---
 How to Save A Life
 ==================
 

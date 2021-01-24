@@ -1,3 +1,7 @@
+---
+layout: post
+title: "John Hockenberry on Reporting the War at NBC"
+---
 John Hockenberry on Reporting the War at NBC
 ============================================
 

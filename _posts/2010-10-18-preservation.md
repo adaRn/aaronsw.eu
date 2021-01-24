@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Outline of a Digital Preservation System"
+---
 Outline of a Digital Preservation System
 ========================================
 

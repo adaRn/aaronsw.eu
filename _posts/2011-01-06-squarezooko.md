@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Squaring the Triangle: Secure, Decentralized, Human-Readable Names"
+---
 Squaring the Triangle: Secure, Decentralized, Human-Readable Names
 ==================================================================
 

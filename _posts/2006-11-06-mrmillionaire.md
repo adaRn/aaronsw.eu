@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Mr. Millionaire"
+---
 Mr. Millionaire
 ===============
 

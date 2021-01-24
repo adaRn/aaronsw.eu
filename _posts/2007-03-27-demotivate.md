@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Aaron’s Patented Demotivational Seminar"
+---
 Aaron’s Patented Demotivational Seminar
 =======================================
 

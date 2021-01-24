@@ -1,3 +1,7 @@
+---
+layout: post
+title: "When will experiences replace movie theaters?"
+---
 When will experiences replace movie theaters?
 =============================================
 

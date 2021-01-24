@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Edmund Burke Explains *The Dark Knight Rises*"
+---
 Edmund Burke Explains *The Dark Knight Rises*
 =============================================
 

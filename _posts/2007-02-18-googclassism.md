@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Classism at Google"
+---
 Classism at Google
 ==================
 

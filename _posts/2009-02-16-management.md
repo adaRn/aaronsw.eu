@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Non-Hierarchical Management"
+---
 Non-Hierarchical Management
 ===========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Awfulness of College Lectures"
+---
 The Awfulness of College Lectures
 =================================
 

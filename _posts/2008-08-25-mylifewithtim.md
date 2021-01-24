@@ -1,3 +1,7 @@
+---
+layout: post
+title: "My Life With Tim"
+---
 My Life With Tim
 ================
 

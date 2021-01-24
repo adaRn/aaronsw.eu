@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Transparency is Bunk"
+---
 Transparency is Bunk
 ====================
 

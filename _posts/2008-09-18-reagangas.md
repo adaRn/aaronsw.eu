@@ -1,3 +1,7 @@
+---
+layout: post
+title: "High Gas Prices Are Reagan’s Fault"
+---
 High Gas Prices Are Reagan’s Fault
 ==================================
 

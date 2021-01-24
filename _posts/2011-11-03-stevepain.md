@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Steve Jobs and the Founder’s Pain"
+---
 Steve Jobs and the Founder’s Pain
 =================================
 

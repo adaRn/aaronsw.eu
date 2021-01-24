@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Birthday Thoughts"
+---
 Birthday Thoughts
 =================
 

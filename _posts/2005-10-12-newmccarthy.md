@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The New McCarthy: Bill O’Reilly"
+---
 The New McCarthy: Bill O’Reilly
 ===============================
 

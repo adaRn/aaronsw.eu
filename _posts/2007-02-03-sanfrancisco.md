@@ -1,3 +1,7 @@
+---
+layout: post
+title: "San Francisco"
+---
 San Francisco
 =============
 

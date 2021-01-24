@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Blast from the Past"
+---
 Blast from the Past
 ===================
 

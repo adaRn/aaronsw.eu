@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Intellectual’s Creed"
+---
 The Intellectual’s Creed
 ========================
 

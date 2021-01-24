@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Making More Wikipedians"
+---
 Making More Wikipedians
 =======================
 

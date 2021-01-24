@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Why are online ads cheaper?"
+---
 Why are online ads cheaper?
 ===========================
 

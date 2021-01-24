@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Political Philosophy of Toy Story 3"
+---
 The Political Philosophy of Toy Story 3
 =======================================
 

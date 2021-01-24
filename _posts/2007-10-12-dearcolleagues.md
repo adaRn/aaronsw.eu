@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Dear Colleagues: Orders from China’s Minister of Internet Censorship"
+---
 Dear Colleagues: Orders from China’s Minister of Internet Censorship
 ====================================================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Attraction of the Center"
+---
 The Attraction of the Center
 ============================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Do I have too much faith in science?"
+---
 Do I have too much faith in science?
 ====================================
 

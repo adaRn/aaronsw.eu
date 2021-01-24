@@ -1,3 +1,7 @@
+---
+layout: post
+title: "HOWTO: Lose weight"
+---
 HOWTO: Lose weight
 ==================
 

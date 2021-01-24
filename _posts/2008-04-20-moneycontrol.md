@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Money and Control"
+---
 Money and Control
 =================
 

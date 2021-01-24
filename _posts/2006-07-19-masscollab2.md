@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Techniques of Mass Collaboration: A Third Way Out"
+---
 The Techniques of Mass Collaboration: A Third Way Out
 =====================================================
 

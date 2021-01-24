@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Who Really Rules?"
+---
 Who Really Rules?
 =================
 

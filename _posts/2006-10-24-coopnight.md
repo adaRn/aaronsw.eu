@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Night at the Coop"
+---
 A Night at the Coop
 ===================
 

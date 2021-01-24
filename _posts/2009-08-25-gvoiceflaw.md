@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Google Voice Security Flaw"
+---
 Google Voice Security Flaw
 ==========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Drop Out"
+---
 Drop Out
 ========
 

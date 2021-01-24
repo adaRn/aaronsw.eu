@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Summary/Explanation of John Maynard Keynes’ *General Theory*"
+---
 A Summary/Explanation of John Maynard Keynes’ *General Theory*
 ==============================================================
 

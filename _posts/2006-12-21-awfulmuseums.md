@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Museums and Exploratoriums"
+---
 Museums and Exploratoriums
 ==========================
 

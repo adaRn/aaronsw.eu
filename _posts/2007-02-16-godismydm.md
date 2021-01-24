@@ -1,3 +1,7 @@
+---
+layout: post
+title: "God Is My Dungeonmaster"
+---
 God Is My Dungeonmaster
 ====================
 

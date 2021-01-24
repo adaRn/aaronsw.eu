@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Understanding Economic Jargon"
+---
 Understanding Economic Jargon
 =============================
 

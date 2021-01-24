@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Making More Wikipedias"
+---
 Making More Wikipedias
 ======================
 

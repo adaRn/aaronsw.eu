@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Median Voter and the Mixed Voter"
+---
 The Median Voter and the Mixed Voter
 ====================================
 

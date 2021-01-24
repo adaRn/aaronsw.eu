@@ -1,3 +1,7 @@
+---
+layout: post
+title: "When Is Transparency Useful?"
+---
 When Is Transparency Useful?
 ============================
 

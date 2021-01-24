@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Is the DMCA a scam?"
+---
 Is the DMCA a scam?
 ===================
 

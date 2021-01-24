@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Behind the Rant: Maciej Ceglowski"
+---
 Behind the Rant: Maciej Ceglowski
 =================================
 

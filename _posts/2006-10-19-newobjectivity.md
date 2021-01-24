@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Invention of Objectivity"
+---
 The Invention of Objectivity
 ============================
 

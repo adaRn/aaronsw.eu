@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Political Startup"
+---
 A Political Startup
 ===================
 

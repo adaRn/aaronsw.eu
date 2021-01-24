@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Tips for Better Thinking"
+---
 Tips for Better Thinking
 ========================
 

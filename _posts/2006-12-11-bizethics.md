@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Business “Ethics”"
+---
 Business “Ethics”
 =================
 

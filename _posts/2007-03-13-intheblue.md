@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Reagan, Star Wars, and the End of the Cold War"
+---
 Reagan, Star Wars, and the End of the Cold War
 ==============================================
 

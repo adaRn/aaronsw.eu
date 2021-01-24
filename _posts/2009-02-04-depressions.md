@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Depressions Work"
+---
 How Depressions Work
 ====================
 

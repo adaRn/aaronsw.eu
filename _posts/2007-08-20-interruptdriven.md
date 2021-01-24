@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Interrupt-Driven Life"
+---
 The Interrupt-Driven Life
 =========================
 

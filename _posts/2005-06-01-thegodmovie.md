@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The God Who Wasn’t There (And The One Who Was)"
+---
 The God Who Wasn’t There (And The One Who Was)
 ==============================================
 

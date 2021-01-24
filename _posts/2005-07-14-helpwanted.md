@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Help Wanted: Programmers for Startup"
+---
 Help Wanted: Programmers for Startup
 ====================================
 

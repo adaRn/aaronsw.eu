@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What’s Freedom?"
+---
 What’s Freedom?
 ===============
 

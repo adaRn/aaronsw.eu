@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Sociology or Anthropology"
+---
 Sociology or Anthropology
 =========================
 

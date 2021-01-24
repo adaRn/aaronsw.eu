@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Policy Gets Made: A Primer"
+---
 How Policy Gets Made: A Primer
 ==============================
 

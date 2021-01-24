@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Bread and Cheese"
+---
 Bread and Cheese
 ================
 

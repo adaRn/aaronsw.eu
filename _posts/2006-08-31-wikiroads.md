@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Wikimedia at the Crossroads"
+---
 Wikimedia at the Crossroads
 ===========================
 

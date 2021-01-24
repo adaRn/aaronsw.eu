@@ -1,3 +1,7 @@
+---
+layout: post
+title: "HOWTO: Read more books"
+---
 HOWTO: Read more books
 ======================
 

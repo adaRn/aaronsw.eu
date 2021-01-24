@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Unified Theory of Magazines"
+---
 A Unified Theory of Magazines
 =============================
 

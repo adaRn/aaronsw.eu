@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Writing a Book: Part One (Ambition)"
+---
 Writing a Book: Part One (Ambition)
 ===================================
 

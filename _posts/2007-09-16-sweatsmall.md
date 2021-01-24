@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Sweating the Small Stuff"
+---
 Sweating the Small Stuff
 ========================
 

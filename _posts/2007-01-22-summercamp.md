@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Last Day of Summer Camp"
+---
 Last Day of Summer Camp
 =======================
 

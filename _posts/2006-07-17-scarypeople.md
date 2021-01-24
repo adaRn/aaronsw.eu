@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What Makes a Personality Scary?"
+---
 What Makes a Personality Scary?
 ===============================
 

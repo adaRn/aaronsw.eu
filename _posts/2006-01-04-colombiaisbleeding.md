@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Colombia is Bleeding"
+---
 Colombia is Bleeding
 ====================
 

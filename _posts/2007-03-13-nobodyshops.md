@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Why You Shop At Wal-Mart: Economics Eats Itself"
+---
 Why You Shop At Wal-Mart: Economics Eats Itself
 ===============================================
 

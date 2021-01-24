@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Visible Hand: A Summary"
+---
 The Visible Hand: A Summary
 ===========================
 

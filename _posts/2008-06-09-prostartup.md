@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How to Promote Startups"
+---
 How to Promote Startups
 =======================
 

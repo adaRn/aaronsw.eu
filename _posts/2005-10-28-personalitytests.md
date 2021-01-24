@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Trials of Testing"
+---
 Trials of Testing
 =================
 

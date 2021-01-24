@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Serious Social Science"
+---
 Serious Social Science
 ======================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Apple and the Kindle"
+---
 Apple and the Kindle
 ====================
 

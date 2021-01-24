@@ -1,3 +1,7 @@
+---
+layout: post
+title: "On Intellectual Dishonesty"
+---
 On Intellectual Dishonesty
 ==========================
 

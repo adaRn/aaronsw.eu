@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Predator State: A Summary"
+---
 The Predator State: A Summary
 =============================
 

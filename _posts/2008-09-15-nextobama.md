@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Obama’s Next Move"
+---
 Obama’s Next Move
 =================
 

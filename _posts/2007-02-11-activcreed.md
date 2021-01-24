@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Activist’s Creed"
+---
 The Activist’s Creed
 ====================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Wither the Two Cultures?"
+---
 Wither the Two Cultures?
 ========================
 

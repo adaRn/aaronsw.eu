@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Apple Works"
+---
 How Apple Works
 ===============
 

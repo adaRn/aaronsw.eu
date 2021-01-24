@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Sexual Life of Savages"
+---
 The Sexual Life of Savages
 ==========================
 

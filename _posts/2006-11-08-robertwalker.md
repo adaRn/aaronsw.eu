@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Robert Walker, Road Warrior"
+---
 Robert Walker, Road Warrior
 ===========================
 

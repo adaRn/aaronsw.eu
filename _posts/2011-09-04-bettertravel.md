@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Better Travel Guide for Geeks"
+---
 A Better Travel Guide for Geeks
 ===============================
 

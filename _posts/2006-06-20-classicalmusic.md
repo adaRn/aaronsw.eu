@@ -1,3 +1,7 @@
+---
+layout: post
+title: "In Offense of Classical Music"
+---
 In Offense of Classical Music
 =============================
 

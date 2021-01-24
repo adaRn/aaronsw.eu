@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Fruits of Mass Collaboration"
+---
 The Fruits of Mass Collaboration
 ================================
 

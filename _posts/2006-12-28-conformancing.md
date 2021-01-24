@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Causes of Conformance"
+---
 Causes of Conformance
 =====================
 

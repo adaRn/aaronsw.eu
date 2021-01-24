@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Future Without Fat"
+---
 A Future Without Fat
 ====================
 

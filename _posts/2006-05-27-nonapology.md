@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Non-Programmer’s Apology"
+---
 A Non-Programmer’s Apology
 ==========================
 

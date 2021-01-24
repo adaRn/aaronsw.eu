@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Individuals in a World of Science"
+---
 Individuals in a World of Science
 =================================
 

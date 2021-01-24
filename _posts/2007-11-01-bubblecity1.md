@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Bubble City: Chapter 1"
+---
 Bubble City: Chapter 1
 ======================
 

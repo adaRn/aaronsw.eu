@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Founders Unite for Startup School"
+---
 Founders Unite for Startup School
 =================================
 

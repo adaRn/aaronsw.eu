@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Hard Sciences"
+---
 The Hard Sciences
 =================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Talking Right"
+---
 Talking Right
 =============
 

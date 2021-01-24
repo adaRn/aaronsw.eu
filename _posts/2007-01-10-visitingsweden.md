@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Capital of Scandinavia"
+---
 The Capital of Scandinavia
 ==========================
 

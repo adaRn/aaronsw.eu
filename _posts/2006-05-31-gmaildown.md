@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Gmail Down"
+---
 Gmail Down
 ==========
 

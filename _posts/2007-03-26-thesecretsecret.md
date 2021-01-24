@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Secret Behind The Secret"
+---
 The Secret Behind The Secret
 ============================
 

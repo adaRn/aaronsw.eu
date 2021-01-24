@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Is Awkwardness Avoidable?"
+---
 Is Awkwardness Avoidable?
 =========================
 

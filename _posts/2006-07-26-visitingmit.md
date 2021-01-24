@@ -1,3 +1,7 @@
+---
+layout: post
+title: "I Love the University"
+---
 I Love the University
 =====================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Goods, Services, and Delegations"
+---
 Goods, Services, and Delegations
 ================================
 

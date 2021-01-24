@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Brought to You by the Letter S"
+---
 Brought to You by the Letter S
 ==============================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Real Problem with *Waiting for “Superman”*"
+---
 The Real Problem with *Waiting for “Superman”*
 ==============================================
 

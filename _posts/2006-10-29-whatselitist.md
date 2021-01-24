@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What is Elitism?"
+---
 What is Elitism?
 ================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "An Inconvenient Truth"
+---
 An Inconvenient Truth
 =====================
 

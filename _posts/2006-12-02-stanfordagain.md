@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Never Back to School"
+---
 Never Back to School
 ====================
 

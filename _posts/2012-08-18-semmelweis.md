@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Look at yourself objectively"
+title: "Look at yourself objectively"
 ---
-
+Look at yourself objectively
 ============================
 
 August 18, 2012

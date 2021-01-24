@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Kafka for the Kindergarten Set"
+---
 Kafka for the Kindergarten Set
 ==============================
 

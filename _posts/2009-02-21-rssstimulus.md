@@ -1,3 +1,7 @@
+---
+layout: post
+title: "RSS Hits the Big Time"
+---
 RSS Hits the Big Time
 =====================
 

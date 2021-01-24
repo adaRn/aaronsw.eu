@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Was Rachel Carson a Mass Murderer?"
+---
 Was Rachel Carson a Mass Murderer?
 ==================================
 

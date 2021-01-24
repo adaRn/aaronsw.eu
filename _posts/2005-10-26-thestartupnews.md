@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Startup News"
+---
 The Startup News
 ================
 

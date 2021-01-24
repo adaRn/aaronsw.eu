@@ -1,3 +1,7 @@
+---
+layout: post
+title: "In Defense of Elections"
+---
 In Defense of Elections
 =======================
 

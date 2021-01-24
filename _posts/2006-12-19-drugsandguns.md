@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Drugs and Guns"
+---
 Drugs and Guns
 ==============
 

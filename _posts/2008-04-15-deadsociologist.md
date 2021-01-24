@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Slaves of Some Dead Sociologist"
+---
 Slaves of Some Dead Sociologist
 ===============================
 

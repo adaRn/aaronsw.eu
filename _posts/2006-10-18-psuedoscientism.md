@@ -1,3 +1,7 @@
+---
+layout: post
+title: "That Isn’t Science!"
+---
 That Isn’t Science!
 ===================
 

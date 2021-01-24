@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Politics of Wikis"
+---
 The Politics of Wikis
 =====================
 

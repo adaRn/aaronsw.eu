@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How To Launch Software"
+---
 How To Launch Software
 ======================
 

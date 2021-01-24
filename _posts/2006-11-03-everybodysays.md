@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Everybody Tells Me So"
+---
 Everybody Tells Me So
 =====================
 

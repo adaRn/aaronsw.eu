@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Forgotten Sidekick"
+---
 The Forgotten Sidekick
 ======================
 

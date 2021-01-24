@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Getting It Right"
+---
 Getting It Right
 ================
 

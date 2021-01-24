@@ -1,3 +1,7 @@
+---
+layout: post
+title: "iz r childrens lrnng?"
+---
 iz r childrens lrnng?
 =====================
 

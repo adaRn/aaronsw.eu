@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Stanford: Season Finale"
+---
 Stanford: Season Finale
 =======================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Felten for CTO?"
+---
 Felten for CTO?
 ===============
 

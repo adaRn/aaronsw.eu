@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Intentionality of Evil"
+---
 The Intentionality of Evil
 ==========================
 

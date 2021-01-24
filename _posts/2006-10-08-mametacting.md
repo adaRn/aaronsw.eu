@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Mamet on Auditions"
+---
 Mamet on Auditions
 ==================
 

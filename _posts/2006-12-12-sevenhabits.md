@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Seven Habits of Highly Successful Websites"
+---
 Seven Habits of Highly Successful Websites
 ==========================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What’s Radical About the Liberal Arts?"
+---
 What’s Radical About the Liberal Arts?
 ======================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Immorality of Freakonomics"
+---
 The Immorality of Freakonomics
 ==============================
 

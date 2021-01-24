@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Handwriting on the Wall"
+---
 The Handwriting on the Wall
 ===========================
 

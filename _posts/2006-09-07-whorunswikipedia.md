@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Who Runs Wikipedia?"
+---
 Who Runs Wikipedia?
 ===================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "HOWTO: Be more productive"
+---
 HOWTO: Be more productive
 =========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Visiting Olin College"
+---
 Visiting Olin College
 =====================
 

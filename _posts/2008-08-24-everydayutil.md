@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Everyday Utilitarianism: Who Gets the TV First?"
+---
 Everyday Utilitarianism: Who Gets the TV First?
 ===============================================
 

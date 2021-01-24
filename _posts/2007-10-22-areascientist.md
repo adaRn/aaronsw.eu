@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Area Scientist’s Study Confirms Own Prejudices"
+---
 Area Scientist’s Study Confirms Own Prejudices
 ==============================================
 

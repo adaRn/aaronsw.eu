@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Do Faces Cause Depression?: Self-Experimentation in Science"
+---
 Do Faces Cause Depression?: Self-Experimentation in Science
 ===========================================================
 

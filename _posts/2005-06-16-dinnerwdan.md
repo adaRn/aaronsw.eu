@@ -1,3 +1,7 @@
+---
+layout: post
+title: "SFP: Dinner with Dan"
+---
 SFP: Dinner with Dan
 ====================
 

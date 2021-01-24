@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Medium Stupid"
+---
 Medium Stupid
 =============
 

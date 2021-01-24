@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Average People"
+---
 Average People
 ==============
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Cass Sunstein, Concern Troll"
+---
 Cass Sunstein, Concern Troll
 ============================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The New Science of Causation"
+---
 The New Science of Causation
 ============================
 

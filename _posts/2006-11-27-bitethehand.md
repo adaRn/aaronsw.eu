@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Why It Makes Sense to Bite the Hand that Feeds You"
+---
 Why It Makes Sense to Bite the Hand that Feeds You
 ==================================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "When Brute Force Fails"
+---
 When Brute Force Fails
 ======================
 

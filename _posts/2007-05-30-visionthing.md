@@ -1,3 +1,7 @@
+---
+layout: post
+title: "That Vision Thing"
+---
 That Vision Thing
 =================
 

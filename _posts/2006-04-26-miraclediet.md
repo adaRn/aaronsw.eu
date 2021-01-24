@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Miracle Diet"
+---
 The Miracle Diet
 ================
 

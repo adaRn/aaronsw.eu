@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Bubble City: Preface"
+---
 Bubble City: Preface
 ====================
 

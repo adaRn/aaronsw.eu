@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Thinking Clearly About Piece-Work"
+---
 Thinking Clearly About Piece-Work
 =================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Ostensible Networks vs. Friendship Networks"
+---
 Ostensible Networks vs. Friendship Networks
 ===========================================
 

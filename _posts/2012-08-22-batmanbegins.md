@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What Happens in *Batman Begins*"
+---
 What Happens in *Batman Begins*
 ===============================
 

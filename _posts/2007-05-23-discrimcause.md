@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Discrimination and Causation"
+---
 Discrimination and Causation
 ============================
 

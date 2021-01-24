@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Eat and Code"
+---
 Eat and Code
 ============
 

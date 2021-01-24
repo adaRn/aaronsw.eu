@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Management, Organizing, Mobilizing"
+---
 Management, Organizing, Mobilizing
 ==================================
 

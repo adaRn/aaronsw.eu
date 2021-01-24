@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Credibility Gap"
+---
 The Credibility Gap
 ===================
 

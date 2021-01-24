@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Think Bigger: A Generalist Manifesto"
+---
 Think Bigger: A Generalist Manifesto
 ====================================
 

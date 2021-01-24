@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Disappearance of Thought"
+---
 The Disappearance of Thought
 ============================
 

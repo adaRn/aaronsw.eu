@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Trouble with Nonprofits"
+---
 The Trouble with Nonprofits
 ===========================
 

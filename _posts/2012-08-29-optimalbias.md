@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What are the optimal biases to overcome?"
+---
 What are the optimal biases to overcome?
 ========================================
 

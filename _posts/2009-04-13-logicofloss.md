@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Logic of Loss"
+---
 The Logic of Loss
 =================
 

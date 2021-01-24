@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How Dumb is Daniel Dennett?"
+---
 How Dumb is Daniel Dennett?
 ===========================
 

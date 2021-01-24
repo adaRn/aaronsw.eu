@@ -1,3 +1,7 @@
+---
+layout: post
+title: "College: Commodity or Community?"
+---
 College: Commodity or Community?
 ================================
 

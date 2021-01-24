@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Fear and Loathing: A Correction"
+---
 Fear and Loathing: A Correction
 ===============================
 

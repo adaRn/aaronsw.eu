@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What It Means To Be An Intellectual"
+---
 What It Means To Be An Intellectual
 ===================================
 

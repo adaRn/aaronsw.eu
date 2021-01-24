@@ -1,3 +1,7 @@
+---
+layout: post
+title: "On Losing Weight"
+---
 On Losing Weight
 ================
 

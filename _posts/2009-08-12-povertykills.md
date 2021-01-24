@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Poverty Kills"
+---
 Poverty Kills
 =============
 

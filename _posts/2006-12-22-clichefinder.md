@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Cliche Finder"
+---
 Cliche Finder
 =============
 

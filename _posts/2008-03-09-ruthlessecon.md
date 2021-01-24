@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Review: The New Ruthless Economy"
+---
 Review: The New Ruthless Economy
 ================================
 

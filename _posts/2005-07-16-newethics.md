@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Change of Course"
+---
 Change of Course
 ================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Genius is in the Details"
+---
 The Genius is in the Details
 ============================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Fashion Notes"
+---
 Fashion Notes
 =============
 

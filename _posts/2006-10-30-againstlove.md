@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Up Against Love"
+---
 Up Against Love
 ===============
 

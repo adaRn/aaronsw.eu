@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Announcing the Open Library"
+---
 Announcing the Open Library
 ===========================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Rethinking Hyperbolic Discounting (or, The Percentage Fallacy, Continued)"
+---
 Rethinking Hyperbolic Discounting (or, The Percentage Fallacy, Continued)
 =========================================================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "I Hate the News"
+---
 I Hate the News
 ===============
 

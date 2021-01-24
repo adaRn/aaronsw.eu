@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Fewer Representatives or More Monitors?"
+---
 Fewer Representatives or More Monitors?
 =======================================
 

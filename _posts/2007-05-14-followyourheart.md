@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Follow Your Heart"
+---
 Follow Your Heart
 =================
 

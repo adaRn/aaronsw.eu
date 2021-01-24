@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The True Story of the Telephone"
+---
 The True Story of the Telephone
 ===============================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Whatever It Takes?"
+---
 Whatever It Takes?
 ==================
 

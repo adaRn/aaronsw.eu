@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Stanford/SFP: Leaving on a Jet Plane"
+---
 Stanford/SFP: Leaving on a Jet Plane
 ====================================
 

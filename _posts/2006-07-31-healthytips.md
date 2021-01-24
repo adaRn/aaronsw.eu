@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Simple Tips for Longer Living"
+---
 Simple Tips for Longer Living
 =============================
 

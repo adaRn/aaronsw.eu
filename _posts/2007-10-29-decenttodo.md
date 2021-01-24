@@ -1,3 +1,7 @@
+---
+layout: post
+title: "How to Build Decent Productivity Software"
+---
 How to Build Decent Productivity Software
 =========================================
 

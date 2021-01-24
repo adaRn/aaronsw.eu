@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Millionaire’s Ball"
+---
 The Millionaire’s Ball
 ======================
 

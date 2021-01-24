@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Visiting Mission Hill"
+---
 Visiting Mission Hill
 =====================
 

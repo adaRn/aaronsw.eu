@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Honest Theft"
+---
 Honest Theft
 ============
 

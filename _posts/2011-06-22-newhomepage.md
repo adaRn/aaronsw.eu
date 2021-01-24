@@ -1,3 +1,7 @@
+---
+layout: post
+title: "New Homepage"
+---
 New Homepage
 ============
 

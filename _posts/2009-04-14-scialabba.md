@@ -1,3 +1,7 @@
+---
+layout: post
+title: "What Are Intellectuals Good For?"
+---
 What Are Intellectuals Good For?
 ================================
 

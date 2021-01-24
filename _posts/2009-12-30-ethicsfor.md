@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Against Reflective Equilibrium (or, What is ethics for?)"
+---
 Against Reflective Equilibrium (or, What is ethics for?)
 ========================================================
 

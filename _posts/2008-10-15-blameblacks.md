@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Blame the Terrorist Black Muslims"
+---
 Blame the Terrorist Black Muslims
 =================================
 

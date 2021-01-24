@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Nutrition Basics"
+---
 Nutrition Basics
 ================
 

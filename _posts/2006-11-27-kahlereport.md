@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Trip to the Courthouse: Part 1"
+---
 A Trip to the Courthouse: Part 1
 ================================
 

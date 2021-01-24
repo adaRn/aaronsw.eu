@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Writing a Book: Part Two (Structure)"
+---
 Writing a Book: Part Two (Structure)
 ====================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Reason So Many People Are Unemployed"
+---
 The Reason So Many People Are Unemployed
 ========================================
 

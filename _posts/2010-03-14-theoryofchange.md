@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Theory of Change"
+---
 Theory of Change
 ================
 

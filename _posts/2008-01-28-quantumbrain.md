@@ -1,3 +1,7 @@
+---
+layout: post
+title: "A Very Speculative Theory of Free Will"
+---
 A Very Speculative Theory of Free Will
 ======================================
 

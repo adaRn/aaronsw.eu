@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Secured Leisure"
+---
 Secured Leisure
 ===============
 

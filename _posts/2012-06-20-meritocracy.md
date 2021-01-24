@@ -1,3 +1,7 @@
+---
+layout: post
+title: "America After Meritocracy: Chris Hayes’ *The Twilight of The Elites*"
+---
 America After Meritocracy: Chris Hayes’ *The Twilight of The Elites*
 ====================================================================
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title: "SFP: Fire Alarm"
+---
 SFP: Fire Alarm
 ===============
 

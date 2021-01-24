@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Free Speech: Because We Can"
+---
 Free Speech: Because We Can
 ===========================
 

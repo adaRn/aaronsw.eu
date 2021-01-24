@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Should our cognitive biases have moral weight?"
+---
 Should our cognitive biases have moral weight?
 ==============================================
 

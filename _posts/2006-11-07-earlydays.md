@@ -1,3 +1,7 @@
+---
+layout: post
+title: "The Early Days of A Better Website"
+---
 The Early Days of A Better Website
 ==================================
 

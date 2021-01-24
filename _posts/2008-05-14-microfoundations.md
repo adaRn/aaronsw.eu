@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Tectonic Plates and Microfoundations"
+---
 Tectonic Plates and Microfoundations
 ====================================
 
